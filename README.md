@@ -9,14 +9,13 @@ if you find the code useful, please cite our paper.
 ```tex
 @article{Luo2022,
 author = {Luo, Hongsheng and Li, Longjie and Hu, Dong and Chen, Xiaoyun},
-doi = {},
+doi = {10.1016/j.knosys.2022.109932},
 journal = {Knowledge-Based Systems},
-month = {},
-pages = {1},
+pages = {109932},
 publisher = {Elsevier B.V.},
 title = {{Link Prediction in Multiplex Networks: An Evidence Theory Method}},
-url = {},
-volume = {},
+url = {https://linkinghub.elsevier.com/retrieve/pii/S0950705122010255},
+volume = {257},
 year = {2022}
 }
 ```
